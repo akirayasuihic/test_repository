@@ -1,5 +1,9 @@
 hello world
-develop branch
+staing branch
 test param 1
 test param 2
 test param 3
+
+flow
+1.develop branch throw away
+2.create branch from staging branch
