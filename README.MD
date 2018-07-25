@@ -20,6 +20,8 @@ staging test file
 
 staging commit
 
+staging commit 2
+
 flow
 1.develop branch throw away
 2.create branch from staging branch
