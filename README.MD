@@ -10,6 +10,8 @@ staging test
 
 staging item
 
+staging item2
+
 flow
 1.develop branch throw away
 2.create branch from staging branch
