@@ -1,29 +1,29 @@
 hello world
-staging branch
+develop branch
 test param 1
 test param 2
 test param 3
 
-staging test
-staging test
-staging test
+develop test
+develop test
+develop test
 
-staging item
+develop item
 
-staging item2
+develop item2
 
-staging
+develop
 
-staging file
+develop file
 
-staging test file
+develop test file
 
-staging commit
+develop commit
 
-staging commit 2
+develop commit 2
 
-staging3
+develop3
 
 flow
 1.develop branch throw away
-2.create branch from staging branch
+2.create branch from develop branch
