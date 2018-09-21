@@ -1,2 +1,5 @@
+/**
+ * おなかがすきました
+ */
 class PrintFizzBuss {
 }
